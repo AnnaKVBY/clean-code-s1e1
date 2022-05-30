@@ -150,3 +150,7 @@ ul li.editMode input[type=text] {
 ul li.editMode label {
   display: none;
 }
+.section-add{
+  margin: 16px 0;
+}
+
