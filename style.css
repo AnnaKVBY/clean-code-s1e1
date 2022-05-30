@@ -40,10 +40,12 @@
   margin: 0;
   padding: 0px;
 }
-.list-item, .subtitle {
+.list-item, 
+.subtitle {
   list-style: none;
 }
-.input,.button{
+.input,
+.button{
   outline: none;
 }
 .button {
@@ -132,7 +134,7 @@
 /* Completed */
 ul#completed-tasks label {
   text-decoration: line-through;
-color: #888;
+  color: #888;
 }
 
 /* Edit Task */
